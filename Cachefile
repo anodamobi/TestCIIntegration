@@ -7,6 +7,6 @@ workspace "TestCIIntegration" do
   derived_data_path "build"
 
   target "TestCIIntegration" do
-    cache "Pods_TestCIIntegration.framework"
+   # cache "Pods_TestCIIntegration.framework"
   end
 end
