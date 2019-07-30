@@ -1,0 +1,12 @@
+workspace "TestCIIntegration" do
+  configuration "release" do
+    build_configuration "Release"
+    xcodebuild_args "SOME_FLAG='1' -UseModernBuildSystem=NO"
+  end
+
+  derived_data_path "build"
+
+  target "TestCIIntegration" do
+    cache "Pods_TestCIIntegration.framework"
+  end
+end
