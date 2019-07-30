@@ -492,6 +492,13 @@
 					"\"/Users/alexanderkravchenko/Projects/TestCIIntegration/build/cached/SwiftySound\"",
 					"\"/Users/alexanderkravchenko/Projects/TestCIIntegration/build/cached/SwiftyUserDefaults\"",
 					"\"/Users/alexanderkravchenko/Projects/TestCIIntegration/build/cached/UIImagePDF\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/Pods-TestCIIntegration\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/R.swift.Library\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/ReSwift\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/SnapKit\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/SwiftySound\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/SwiftyUserDefaults\"",
+					"\"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/UIImagePDF\"",
 				);
 				INFOPLIST_FILE = TestCIIntegration/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -514,6 +521,13 @@
 					"\"/Users/alexanderkravchenko/Projects/TestCIIntegration/build/cached/SwiftyUserDefaults/SwiftyUserDefaults.framework/Headers\"",
 					"-iquote",
 					"\"/Users/alexanderkravchenko/Projects/TestCIIntegration/build/cached/UIImagePDF/UIImagePDF.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/Pods-TestCIIntegration/Pods_TestCIIntegration.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/R.swift.Library/Rswift.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/ReSwift/ReSwift.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/SnapKit/SnapKit.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/SwiftySound/SwiftySound.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/SwiftyUserDefaults/SwiftyUserDefaults.framework/Headers\"",
+					"-iquote \"/Users/alexanderkravchenko/shit/TestCIIntegration/build/cached/UIImagePDF/UIImagePDF.framework/Headers\"",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ANODA.TestCIIntegration;
 				PRODUCT_NAME = "$(TARGET_NAME)";
